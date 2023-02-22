@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\refint\05.StackOfStrings.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\05.StackOfStrings\obj\Debug\net6.0\ref\05.StackOfStrings.dll

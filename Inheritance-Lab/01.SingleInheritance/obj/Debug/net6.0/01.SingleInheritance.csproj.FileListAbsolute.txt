@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\ref\01.SingleInheritance.dll

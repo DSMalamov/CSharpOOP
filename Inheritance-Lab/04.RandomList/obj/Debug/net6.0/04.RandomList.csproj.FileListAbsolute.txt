@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\bin\Debug\net6.0\04.RandomList.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\bin\Debug\net6.0\04.RandomList.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\bin\Debug\net6.0\04.RandomList.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\bin\Debug\net6.0\04.RandomList.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\bin\Debug\net6.0\04.RandomList.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\04.RandomList.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\04.RandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\04.RandomList.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\04.RandomList.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\04.RandomList.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\04.RandomList.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\refint\04.RandomList.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\04.RandomList.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\04.RandomList.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\04.RandomList\obj\Debug\net6.0\ref\04.RandomList.dll

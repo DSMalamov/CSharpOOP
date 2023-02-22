@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net6.0\03.HierarchicalInheritance.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\refint\03.HierarchicalInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\03.HierarchicalInheritance.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net6.0\ref\03.HierarchicalInheritance.dll

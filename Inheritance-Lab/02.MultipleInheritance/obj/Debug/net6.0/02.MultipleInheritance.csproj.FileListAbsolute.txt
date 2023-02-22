@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\refint\02.MultipleInheritance.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net6.0\ref\02.MultipleInheritance.dll
