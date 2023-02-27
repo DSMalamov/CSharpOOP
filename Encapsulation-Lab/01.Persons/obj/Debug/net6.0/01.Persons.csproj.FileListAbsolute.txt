@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\refint\01.Persons.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\01.Persons\obj\Debug\net6.0\ref\01.Persons.dll

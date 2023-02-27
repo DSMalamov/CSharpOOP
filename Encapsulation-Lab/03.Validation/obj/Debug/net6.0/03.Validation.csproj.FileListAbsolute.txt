@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\bin\Debug\net6.0\03.Validation.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\refint\03.Validation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\03.Validation.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Encapsulation-Lab\03.Validation\obj\Debug\net6.0\ref\03.Validation.dll
