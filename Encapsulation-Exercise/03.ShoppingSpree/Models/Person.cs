@@ -11,18 +11,32 @@ public class Person
 {
     private string name;
     private decimal money;
-    private List<Product> bag;
+    private List<Product> products;
 
     public Person(string name, decimal money)
     {
         Name = name;
         Money = money;
-        bag = new List<Product>();
+        products = new List<Product>();
+    }
+
+    public string Name
+    {
+        get => name;
+        set
+        {
+            if (string.IsNullOrWhiteSpace(value))
+            {
+                throw new ArgumentException("Name cannot be empty");
+            }
+
+            name = value;
+        }
     }
 
     public decimal Money
     {
-        get { return money; }
+        get => money;
         private set
         {
             if (value < 0)
@@ -34,50 +48,27 @@ public class Person
         }
     }
 
-
-    public string Name
-    {
-        get => name;
-
-        private set
-        {
-            if (string.IsNullOrWhiteSpace(value))
-            {
-                throw new ArgumentException("Name cannot be empty");
-            }
-
-            name = value;
-        }
-    }
-
     public string Add(Product product)
     {
-        if (product.Cost > Money)
+        if (Money < product.Cost)
         {
-            Console.WriteLine($"{Name} can't afford {product.Name}");
+            return $"{Name} can't afford {product}";
         }
 
-        bag.Add(product);
+        products.Add(product);
 
         Money -= product.Cost;
 
-        return $"{Name} bought {product.Name}";
+        return $"{Name} bought {product}";
     }
 
     public override string ToString()
     {
-        string output = string.Empty;
+        string productsString = products.Any()
+             ? string.Join(", ", products)
+             : "Nothing bought";
 
-        if (bag.Any())
-        {
-            output = string.Join(", ", bag);
-        }
-        else
-        {
-            output = "Nothing bought";
-        }
-
-        return output;
+        return $"{Name} - {productsString}";
     }
 
 }
