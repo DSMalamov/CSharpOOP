@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\net6.0\02.Cars.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\net6.0\02.Cars.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\net6.0\02.Cars.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\net6.0\02.Cars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\bin\Debug\net6.0\02.Cars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\02.Cars.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\02.Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\02.Cars.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\02.Cars.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\02.Cars.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\02.Cars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\refint\02.Cars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\02.Cars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\02.Cars.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\02.Cars\obj\Debug\net6.0\ref\02.Cars.dll

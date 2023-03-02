@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\bin\Debug\net6.0\01.Shapes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\refint\01.Shapes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\01.Shapes.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Lab\01.Shapes\obj\Debug\net6.0\ref\01.Shapes.dll
