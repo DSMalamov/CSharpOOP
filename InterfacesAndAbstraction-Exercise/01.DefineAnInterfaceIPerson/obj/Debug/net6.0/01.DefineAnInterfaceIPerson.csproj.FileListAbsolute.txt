@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\01.DefineAnInterfaceIPerson.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\01.DefineAnInterfaceIPerson.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\01.DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\01.DefineAnInterfaceIPerson.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\bin\Debug\net6.0\01.DefineAnInterfaceIPerson.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\refint\01.DefineAnInterfaceIPerson.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\01.DefineAnInterfaceIPerson.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\01.DefineAnInterfaceIPerson\obj\Debug\net6.0\ref\01.DefineAnInterfaceIPerson.dll

@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\refint\02.MultipleImplementation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\net6.0\ref\02.MultipleImplementation.dll
