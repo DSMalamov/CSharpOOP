@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\refint\04.BorderControl.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\ref\04.BorderControl.dll
