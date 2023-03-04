@@ -1,0 +1,5 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\07.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.csproj.CoreCompileInputs.cache
