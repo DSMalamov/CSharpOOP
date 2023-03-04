@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\refint\05.BirthdayCelebrations.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\ref\05.BirthdayCelebrations.dll

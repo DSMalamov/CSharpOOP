@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\bin\Debug\net6.0\06.FoodShortage.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\refint\06.FoodShortage.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\06.FoodShortage.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\06.FoodShortage\obj\Debug\net6.0\ref\06.FoodShortage.dll
