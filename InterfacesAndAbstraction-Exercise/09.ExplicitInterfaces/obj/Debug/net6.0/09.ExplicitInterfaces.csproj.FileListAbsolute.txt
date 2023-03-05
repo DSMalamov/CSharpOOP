@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\refint\09.ExplicitInterfaces.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\ref\09.ExplicitInterfaces.dll

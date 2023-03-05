@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\bin\Debug\net6.0\08.CollectionHierarchy.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\refint\08.CollectionHierarchy.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\08.CollectionHierarchy.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\InterfacesAndAbstraction-Exercise\08.CollectionHierarchy\obj\Debug\net6.0\ref\08.CollectionHierarchy.dll
