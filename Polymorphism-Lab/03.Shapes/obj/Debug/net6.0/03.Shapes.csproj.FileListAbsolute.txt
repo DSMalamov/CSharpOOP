@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\bin\Debug\net6.0\03.Shapes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\refint\03.Shapes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\03.Shapes.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Lab\03.Shapes\obj\Debug\net6.0\ref\03.Shapes.dll
