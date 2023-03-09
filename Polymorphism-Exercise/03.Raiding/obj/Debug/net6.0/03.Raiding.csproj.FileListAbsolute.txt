@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\bin\Debug\net6.0\03.Raiding.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\refint\03.Raiding.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\03.Raiding.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\03.Raiding\obj\Debug\net6.0\ref\03.Raiding.dll
