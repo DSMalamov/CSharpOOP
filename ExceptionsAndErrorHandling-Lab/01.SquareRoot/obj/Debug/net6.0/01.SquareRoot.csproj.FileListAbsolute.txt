@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\refint\01.SquareRoot.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\01.SquareRoot\obj\Debug\net6.0\ref\01.SquareRoot.dll

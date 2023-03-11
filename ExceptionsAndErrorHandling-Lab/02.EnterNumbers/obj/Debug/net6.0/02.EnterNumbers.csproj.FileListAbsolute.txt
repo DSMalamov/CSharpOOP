@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\refint\02.EnterNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\ref\02.EnterNumbers.dll
