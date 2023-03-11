@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\bin\Debug\net6.0\04.WildFarm.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\refint\04.WildFarm.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\04.WildFarm.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\04.WildFarm\obj\Debug\net6.0\ref\04.WildFarm.dll
