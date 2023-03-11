@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\bin\Debug\net6.0\02.VehiclesExtension.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\bin\Debug\net6.0\02.VehiclesExtension.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\bin\Debug\net6.0\02.VehiclesExtension.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\bin\Debug\net6.0\02.VehiclesExtension.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\bin\Debug\net6.0\02.VehiclesExtension.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\02.VehiclesExtension.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\02.VehiclesExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\02.VehiclesExtension.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\02.VehiclesExtension.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\02.VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\02.VehiclesExtension.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\refint\02.VehiclesExtension.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\02.VehiclesExtension.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\02.VehiclesExtension.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\Polymorphism-Exercise\02.VehiclesExtension\obj\Debug\net6.0\ref\02.VehiclesExtension.dll
