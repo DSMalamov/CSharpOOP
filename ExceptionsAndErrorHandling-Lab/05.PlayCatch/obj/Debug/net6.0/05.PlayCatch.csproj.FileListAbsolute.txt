@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\bin\Debug\net6.0\05.PlayCatch.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\refint\05.PlayCatch.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\05.PlayCatch.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\05.PlayCatch\obj\Debug\net6.0\ref\05.PlayCatch.dll

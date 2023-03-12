@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\refint\06.MoneyTransactions.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\06.MoneyTransactions\obj\Debug\net6.0\ref\06.MoneyTransactions.dll

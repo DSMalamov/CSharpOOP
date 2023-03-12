@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\refint\04.SumOfIntegers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExceptionsAndErrorHandling-Lab\04.SumOfIntegers\obj\Debug\net6.0\ref\04.SumOfIntegers.dll
