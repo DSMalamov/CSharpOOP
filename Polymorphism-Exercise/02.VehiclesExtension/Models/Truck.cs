@@ -15,8 +15,13 @@ public class Truck : Vehicle
     {
     }
 
-    //public override void Refuel(double amount)
-    //{
-    //    base.Refuel(amount * 0.95);
-    //}
+    public override void Refuel(double amount)
+    {
+        if (amount + FuelQuantity > TankCapacity)
+        {
+            throw new ArgumentException($"Cannot fit {amount} fuel in the tank");
+        }
+
+        base.Refuel(amount * 0.95);
+    }
 }
