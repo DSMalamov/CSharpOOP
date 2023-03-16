@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net6.0\01.Stealer.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\refint\01.Stealer.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\01.Stealer.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net6.0\ref\01.Stealer.dll
