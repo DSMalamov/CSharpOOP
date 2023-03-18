@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\refint\05.CreateAttribute.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\ref\05.CreateAttribute.dll

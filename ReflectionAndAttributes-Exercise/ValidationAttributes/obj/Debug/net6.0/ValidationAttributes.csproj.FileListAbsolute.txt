@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\refint\ValidationAttributes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ref\ValidationAttributes.dll

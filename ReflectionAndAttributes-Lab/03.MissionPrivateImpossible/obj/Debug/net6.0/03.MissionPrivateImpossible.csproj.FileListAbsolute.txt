@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\bin\Debug\net6.0\03.MissionPrivateImpossible.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\refint\03.MissionPrivateImpossible.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\03.MissionPrivateImpossible.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\03.MissionPrivateImpossible\obj\Debug\net6.0\ref\03.MissionPrivateImpossible.dll

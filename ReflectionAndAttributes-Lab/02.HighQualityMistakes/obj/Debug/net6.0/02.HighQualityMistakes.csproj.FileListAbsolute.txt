@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\refint\02.HighQualityMistakes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ReflectionAndAttributes-Lab\02.HighQualityMistakes\obj\Debug\net6.0\ref\02.HighQualityMistakes.dll
