@@ -1,0 +1,12 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\Database\obj\Debug\net6.0\ref\Database.dll
