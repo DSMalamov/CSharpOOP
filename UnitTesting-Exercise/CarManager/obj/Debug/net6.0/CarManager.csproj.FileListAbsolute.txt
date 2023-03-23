@@ -1,0 +1,12 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\UnitTesting-Exercise\CarManager\obj\Debug\net6.0\ref\CarManager.dll
