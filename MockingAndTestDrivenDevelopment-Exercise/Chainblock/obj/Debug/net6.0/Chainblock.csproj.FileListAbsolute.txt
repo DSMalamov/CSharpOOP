@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\bin\Debug\net6.0\Chainblock.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\bin\Debug\net6.0\Chainblock.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\bin\Debug\net6.0\Chainblock.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\bin\Debug\net6.0\Chainblock.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\bin\Debug\net6.0\Chainblock.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\Chainblock.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\Chainblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\Chainblock.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\Chainblock.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\Chainblock.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\Chainblock.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\refint\Chainblock.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\Chainblock.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\Chainblock.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\MockingAndTestDrivenDevelopment-Exercise\Chainblock\obj\Debug\net6.0\ref\Chainblock.dll
