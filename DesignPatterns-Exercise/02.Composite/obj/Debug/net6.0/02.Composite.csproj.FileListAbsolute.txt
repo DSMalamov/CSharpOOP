@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\bin\Debug\net6.0\02.Composite.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\bin\Debug\net6.0\02.Composite.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\bin\Debug\net6.0\02.Composite.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\bin\Debug\net6.0\02.Composite.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\bin\Debug\net6.0\02.Composite.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\02.Composite.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\02.Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\02.Composite.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\02.Composite.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\02.Composite.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\02.Composite.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\refint\02.Composite.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\02.Composite.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\02.Composite.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\02.Composite\obj\Debug\net6.0\ref\02.Composite.dll

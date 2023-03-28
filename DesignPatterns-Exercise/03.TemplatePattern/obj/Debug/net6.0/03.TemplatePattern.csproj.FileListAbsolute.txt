@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\bin\Debug\net6.0\03.TemplatePattern.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\bin\Debug\net6.0\03.TemplatePattern.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\bin\Debug\net6.0\03.TemplatePattern.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\bin\Debug\net6.0\03.TemplatePattern.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\bin\Debug\net6.0\03.TemplatePattern.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\03.TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\03.TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\03.TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\03.TemplatePattern.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\03.TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\03.TemplatePattern.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\refint\03.TemplatePattern.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\03.TemplatePattern.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\03.TemplatePattern.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\03.TemplatePattern\obj\Debug\net6.0\ref\03.TemplatePattern.dll

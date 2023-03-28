@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\01.Prototype.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\01.Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\01.Prototype.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\01.Prototype.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\01.Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\bin\Debug\net6.0\01.Prototype.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\bin\Debug\net6.0\01.Prototype.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\bin\Debug\net6.0\01.Prototype.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\bin\Debug\net6.0\01.Prototype.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\bin\Debug\net6.0\01.Prototype.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\01.Prototype.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\refint\01.Prototype.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\01.Prototype.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\01.Prototype.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\DesignPatterns-Exercise\01.Prototype\obj\Debug\net6.0\ref\01.Prototype.dll
