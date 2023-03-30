@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "orhpfQjFUfhNbxOevXoYx7WQJVUyaSYmdJYb9wvRfcyWOfPAssLdf2Vn8PnE0XKG6lNH3LXi362CwfEmpqxBUg==",
+  "dgSpecHash": "W1R1jQmGSAFKB8JSphjMQRWEqB5UiYUN1GMKmtZJbltoDWS8vKFeJsSkU9D89Z8Ut1stQy/yR81AhT4R1OLwAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dragomir Malamov\\Desktop\\programing\\CSharpOOP\\UnitTesting-Exercise\\FightingArena.Tests\\FightingArena.Tests.csproj",
+  "projectFilePath": "D:\\programing github\\CSharpOOP\\CSharpOOP\\UnitTesting-Exercise\\FightingArena.Tests\\FightingArena.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -86,6 +86,7 @@ namespace ExtendedDatabase
 
         public Person FindById(long id)
         {
+
             if (id < 0)
             {
                 throw new ArgumentOutOfRangeException("Id should be a positive number!");

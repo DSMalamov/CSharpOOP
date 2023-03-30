@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hHcwisZSb8UEs2LWWuHIMG7i86Wk+KUX4X5+dx48qd1Qb0YtKqYHdVoKHAnIqyL99zQsFnZf9gQlmtUr1MS/Zw==",
+  "dgSpecHash": "wMdR+1FSEykw01KtzfcI/lWao3sUvtTpizKrsCs1G6gHU95UOoDq/pnhrmkrKcjmhhT1XqiWTTtPm4ljJMIWlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dragomir Malamov\\Desktop\\programing\\CSharpOOP\\UnitTesting-Exercise\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
+  "projectFilePath": "D:\\programing github\\CSharpOOP\\CSharpOOP\\UnitTesting-Exercise\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

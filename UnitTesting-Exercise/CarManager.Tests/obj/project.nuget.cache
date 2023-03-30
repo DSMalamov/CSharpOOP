@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aOHMjvRbHE1ygn6cjmxl+GSv73WH3tIYkkBq/SVKk6zIWh/cPr86y5mlSlfjwfQzNBzA4jxyviYMCk4lvw9m7Q==",
+  "dgSpecHash": "DRSb+fMjbbd4pt/jECxvyBi7FBSM7h5NBZ9j5gzOETKZLVY3reH+anDbYy0Pql43yOsF6G5PajyqoZGxK9tpKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dragomir Malamov\\Desktop\\programing\\CSharpOOP\\UnitTesting-Exercise\\CarManager.Tests\\CarManager.Tests.csproj",
+  "projectFilePath": "D:\\programing github\\CSharpOOP\\CSharpOOP\\UnitTesting-Exercise\\CarManager.Tests\\CarManager.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
