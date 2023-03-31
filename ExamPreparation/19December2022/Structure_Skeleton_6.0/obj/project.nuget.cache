@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9JzPgGai3NIhTmmSM9HueCssCSBXrBDmlYYH35M7SnyhKaFpNipW7Yo35ymMXOc0o2AhUyjthdCwPmgNIg7Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dragomir Malamov\\Desktop\\programing\\CSharpOOP\\ExamPreparation\\Structure_Skeleton_6.0\\UniversityCompetition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.13\\microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.13\\microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.13\\microsoft.extensions.configuration.usersecrets.3.1.13.nupkg.sha512",
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.13\\microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.13\\microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.13\\microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+    "C:\\Users\\Dragomir Malamov\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
