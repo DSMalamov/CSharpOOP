@@ -1,0 +1,15 @@
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.exe
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\refint\FrontDeskApp.dll
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.genruntimeconfig.cache
+C:\Users\Dragomir Malamov\Desktop\programing\CSharpOOP\ExamPreparation\22August2022\03. UnitTests_Skeleton_6.0\FrontDeskApp\obj\Debug\net6.0\ref\FrontDeskApp.dll
