@@ -9,11 +9,9 @@ using PlanetWars.Repositories;
 using PlanetWars.Repositories.Contracts;
 using PlanetWars.Utilities.Messages;
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Text;
-using System.Xml.Linq;
+
 
 namespace PlanetWars.Core
 {
