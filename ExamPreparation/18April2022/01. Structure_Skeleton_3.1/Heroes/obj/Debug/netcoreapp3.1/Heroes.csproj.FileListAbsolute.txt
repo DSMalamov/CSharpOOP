@@ -1,0 +1,14 @@
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\18April2022\01. Structure_Skeleton_3.1\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
