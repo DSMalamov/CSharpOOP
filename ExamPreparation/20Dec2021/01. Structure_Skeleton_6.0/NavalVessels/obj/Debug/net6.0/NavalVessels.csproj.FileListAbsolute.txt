@@ -1,0 +1,15 @@
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\bin\Debug\net6.0\NavalVessels.exe
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\bin\Debug\net6.0\NavalVessels.deps.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\bin\Debug\net6.0\NavalVessels.runtimeconfig.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\bin\Debug\net6.0\NavalVessels.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\bin\Debug\net6.0\NavalVessels.pdb
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\NavalVessels.csproj.AssemblyReference.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\NavalVessels.AssemblyInfoInputs.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\NavalVessels.AssemblyInfo.cs
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\NavalVessels.csproj.CoreCompileInputs.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\NavalVessels.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\refint\NavalVessels.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\NavalVessels.pdb
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\NavalVessels.genruntimeconfig.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\20Dec2021\01. Structure_Skeleton_6.0\NavalVessels\obj\Debug\net6.0\ref\NavalVessels.dll

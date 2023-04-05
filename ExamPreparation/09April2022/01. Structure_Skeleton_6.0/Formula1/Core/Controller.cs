@@ -88,7 +88,7 @@ namespace Formula1.Core
             var pilot = pilotRepository.FindByName(pilotName);
             var car = carRepository.FindByName(carModel);
 
-            if (pilot == null)
+            if (pilot == null || pilot.Car != null)
             {
                 throw new InvalidOperationException(string.Format(ExceptionMessages.PilotDoesNotExistOrHasCarErrorMessage,pilotName));
             }
@@ -152,8 +152,8 @@ namespace Formula1.Core
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine($"Pilot {orderdPilots.First().FullName} wins the {raceName} race.");
-            sb.AppendLine($"Pilot {orderdPilots.Skip(1).First().FullName} is second in the  {raceName} race.");
-            sb.AppendLine($"Pilot {orderdPilots.Skip(2).First().FullName} is third in the  {raceName} race.");
+            sb.AppendLine($"Pilot {orderdPilots.Skip(1).First().FullName} is second in the {raceName} race.");
+            sb.AppendLine($"Pilot {orderdPilots.Skip(2).First().FullName} is third in the {raceName} race.");
 
             return sb.ToString().Trim();
         }
