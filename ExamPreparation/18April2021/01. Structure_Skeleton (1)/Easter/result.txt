@@ -1,0 +1,40 @@
+Successfully added SleepyBunny named SleepyHead.
+Successfully added HappyBunny named Sunshine.
+Invalid bunny type
+Successfully added dye with power 10 to bunny SleepyHead!
+Successfully added dye with power 20 to bunny Sunshine!
+Successfully added dye with power 20 to bunny Sunshine!
+Successfully added dye with power 30 to bunny Sunshine!
+Successfully added dye with power 10 to bunny Sunshine!
+Successfully added dye with power 30 to bunny Sunshine!
+Successfully added dye with power 20 to bunny Sunshine!
+Successfully added dye with power 40 to bunny Sunshine!
+Successfully added egg: Green!
+Successfully added egg: Red!
+Successfully added egg: Yellow!
+Egg Green is done.
+Egg Red is not done.
+Egg Yellow is not done.
+1 eggs are done!
+Bunnies info:
+Name: SleepyHead
+Energy: 35
+Dyes: 1 not finished
+Name: Sunshine
+Energy: 80
+Dyes: 1 not finished
+Successfully added SleepyBunny named SleepyHead.
+Successfully added HappyBunny named Sunshine.
+Invalid bunny type
+Successfully added dye with power 10 to bunny SleepyHead!
+Successfully added dye with power 20 to bunny Sunshine!
+Successfully added dye with power 20 to bunny Sunshine!
+Successfully added dye with power 30 to bunny Sunshine!
+Successfully added dye with power 10 to bunny Sunshine!
+Successfully added dye with power 30 to bunny Sunshine!
+Successfully added dye with power 20 to bunny Sunshine!
+Successfully added dye with power 40 to bunny Sunshine!
+Successfully added egg: Green!
+Successfully added egg: Red!
+Successfully added egg: Yellow!
+Egg Green is done.
