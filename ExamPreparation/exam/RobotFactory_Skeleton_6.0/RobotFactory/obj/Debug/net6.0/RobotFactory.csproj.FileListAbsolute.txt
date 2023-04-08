@@ -1,0 +1,15 @@
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

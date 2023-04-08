@@ -1,0 +1,15 @@
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.exe
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.deps.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.runtimeconfig.json
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.pdb
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\refint\RobotService.dll
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.pdb
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+D:\programing github\CSharpOOP\CSharpOOP\ExamPreparation\exam\RobotService_Skeleton_6.0\obj\Debug\net6.0\ref\RobotService.dll
