@@ -1,5 +1,5 @@
-# Programming-Fundamentals-with-CSharp
-Programming Fundamentals with C# - september 2022 - Solved tasks
+# CSharp OOP
+CSharp OOP - february 2023 - Solved tasks
 
 C# OOP - февруари 2023
 
